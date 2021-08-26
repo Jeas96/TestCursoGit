@@ -1,6 +1,13 @@
 arriba el ame
 
+<<<<<<< HEAD
 abc
 
 
 otro commit pero ahora en master
+=======
+abcb
+
+
+cambio de rama
+>>>>>>> ramita
